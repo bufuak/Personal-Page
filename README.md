@@ -1,1 +1,1 @@
-https://htmlpreview.github.io/?https://github.com/bufuak/Personal-Page/blob/master/index.html
+bufuak.github.io/cv
